@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="1000"
+	maxImageHeight="1000"
+	imageQuality="100"
+	thumbWidth="100"
+	thumbHeight="100"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	showOpenButton="true"
+	enableAutoPlay="true"
+	showImageNumber="true"
+	galleryTitle="Escape to the East 2015"
+	showExpandButton="true"
+	useFullscreenExpand="true"
+	showAutoPlayButton="true"
+	showNavButtons="false"
+	displayTime="3"
+	flickrShowTitle="false"
+	galleryTitlePosition="OVERLAY"
+	useThumbDots="false"
+	showLargeThumbs="true"
+	showSmallThumbs="true"
+	showImageOverlay="AUTO"
+	maxCaptionHeight="40"
+	imagePadding="5"
+	imageFrameColor="rgba(255,255,255,1)"
+	thumbFrameColor="rgba(255,255,255,.5)"
+	topBackColor="rgba(0,0,0,0)"
+	enableKeyboardControls="true"
+	showInfoButton="false"
+	captionPosition="BELOW_IMAGE"
+	shareFacebook="true"
+	shareURL="http://ok.ok2c.net/e2te15/"
+>
+  <image imageURL="images/001.jpg"
+	thumbURL="thumbs/001.jpg"
+	linkURL="images/001.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[แวะไหว้พระที่วัดชากใหญ่ อ. นายายอาม จันทบุรี]]></caption>
+  </image>
+  <image imageURL="images/002.jpg"
+	thumbURL="thumbs/002.jpg"
+	linkURL="images/002.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/003.jpg"
+	thumbURL="thumbs/003.jpg"
+	linkURL="images/003.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[หอระฆัง]]></caption>
+  </image>
+  <image imageURL="images/004.jpg"
+	thumbURL="thumbs/004.jpg"
+	linkURL="images/004.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/005.jpg"
+	thumbURL="thumbs/005.jpg"
+	linkURL="images/005.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/006.jpg"
+	thumbURL="thumbs/006.jpg"
+	linkURL="images/006.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/007.jpg"
+	thumbURL="thumbs/007.jpg"
+	linkURL="images/007.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/008.jpg"
+	thumbURL="thumbs/008.jpg"
+	linkURL="images/008.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/009.jpg"
+	thumbURL="thumbs/009.jpg"
+	linkURL="images/009.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/010.jpg"
+	thumbURL="thumbs/010.jpg"
+	linkURL="images/010.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/011.jpg"
+	thumbURL="thumbs/011.jpg"
+	linkURL="images/011.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/012.jpg"
+	thumbURL="thumbs/012.jpg"
+	linkURL="images/012.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/013.jpg"
+	thumbURL="thumbs/013.jpg"
+	linkURL="images/013.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/014.jpg"
+	thumbURL="thumbs/014.jpg"
+	linkURL="images/014.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[เมื้อเย็นที่ร้านคนพลัดถิ่น ตราด]]></caption>
+  </image>
+  <image imageURL="images/015.jpg"
+	thumbURL="thumbs/015.jpg"
+	linkURL="images/015.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[นั้งเรือ ferry มาชั่วโมงครึ่งก็ถึงเกาะกูด]]></caption>
+  </image>
+  <image imageURL="images/016.jpg"
+	thumbURL="thumbs/016.jpg"
+	linkURL="images/016.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[นั้งรถสองแถวมาอีกครึ่งชัวโมงก็ถึงที่พัก]]></caption>
+  </image>
+  <image imageURL="images/017.jpg"
+	thumbURL="thumbs/017.jpg"
+	linkURL="images/017.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/018.jpg"
+	thumbURL="thumbs/018.jpg"
+	linkURL="images/018.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/019.jpg"
+	thumbURL="thumbs/019.jpg"
+	linkURL="images/019.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/020.jpg"
+	thumbURL="thumbs/020.jpg"
+	linkURL="images/020.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/021.jpg"
+	thumbURL="thumbs/021.jpg"
+	linkURL="images/021.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/022.jpg"
+	thumbURL="thumbs/022.jpg"
+	linkURL="images/022.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/023.jpg"
+	thumbURL="thumbs/023.jpg"
+	linkURL="images/023.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/024.jpg"
+	thumbURL="thumbs/024.jpg"
+	linkURL="images/024.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/025.jpg"
+	thumbURL="thumbs/025.jpg"
+	linkURL="images/025.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[ดวงอาทิตย์กำลังจะตกน้ำแล้ว]]></caption>
+  </image>
+  <image imageURL="images/026.jpg"
+	thumbURL="thumbs/026.jpg"
+	linkURL="images/026.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/027.jpg"
+	thumbURL="thumbs/027.jpg"
+	linkURL="images/027.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/028.jpg"
+	thumbURL="thumbs/028.jpg"
+	linkURL="images/028.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/029.jpg"
+	thumbURL="thumbs/029.jpg"
+	linkURL="images/029.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/030.jpg"
+	thumbURL="thumbs/030.jpg"
+	linkURL="images/030.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/031.jpg"
+	thumbURL="thumbs/031.jpg"
+	linkURL="images/031.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[เห็นพระจันทร์มั้ย?]]></caption>
+  </image>
+  <image imageURL="images/032.jpg"
+	thumbURL="thumbs/032.jpg"
+	linkURL="images/032.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/033.jpg"
+	thumbURL="thumbs/033.jpg"
+	linkURL="images/033.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/034.jpg"
+	thumbURL="thumbs/034.jpg"
+	linkURL="images/034.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/035.jpg"
+	thumbURL="thumbs/035.jpg"
+	linkURL="images/035.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/036.jpg"
+	thumbURL="thumbs/036.jpg"
+	linkURL="images/036.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/037.jpg"
+	thumbURL="thumbs/037.jpg"
+	linkURL="images/037.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/038.jpg"
+	thumbURL="thumbs/038.jpg"
+	linkURL="images/038.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/039.jpg"
+	thumbURL="thumbs/039.jpg"
+	linkURL="images/039.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[เช้านี้อากาศสดใส]]></caption>
+  </image>
+  <image imageURL="images/040.jpg"
+	thumbURL="thumbs/040.jpg"
+	linkURL="images/040.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+ <image imageURL="images/041.jpg"
+	thumbURL="thumbs/041.jpg"
+	linkURL="images/041.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/042.jpg"
+	thumbURL="thumbs/042.jpg"
+	linkURL="images/042.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/043.jpg"
+	thumbURL="thumbs/043.jpg"
+	linkURL="images/043.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/044.jpg"
+	thumbURL="thumbs/044.jpg"
+	linkURL="images/044.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/045.jpg"
+	thumbURL="thumbs/045.jpg"
+	linkURL="images/045.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/046.jpg"
+	thumbURL="thumbs/046.jpg"
+	linkURL="images/046.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/047.jpg"
+	thumbURL="thumbs/047.jpg"
+	linkURL="images/047.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[9 โมงเช้าได้เวลานัดกับรถสองแถวจะไปส่งท่าเรือ]]></caption>
+  </image>
+  <image imageURL="images/048.jpg"
+	thumbURL="thumbs/048.jpg"
+	linkURL="images/048.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/049.jpg"
+	thumbURL="thumbs/049.jpg"
+	linkURL="images/049.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[อนุเสาวรีย์รูปปิรามิดพระนางเรือล่ม]]></caption>
+  </image>
+      <image imageURL="images/050.jpg"
+	thumbURL="thumbs/050.jpg"
+	linkURL="images/050.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[หรือ อนุสาวรีย์สมเด็จพระนางเจ้าสุนันทากุมารีรัตน์ฯ]]></caption>
+  </image>
+    <image imageURL="images/051.jpg"
+	thumbURL="thumbs/051.jpg"
+	linkURL="images/051.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[อลงกรณ์เจดีย์ สร้างด้วยศิลาแลง]]></caption>
+  </image>
+    <image imageURL="images/052.jpg"
+	thumbURL="thumbs/052.jpg"
+	linkURL="images/052.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/053.jpg"
+	thumbURL="thumbs/053.jpg"
+	linkURL="images/053.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/054.jpg"
+	thumbURL="thumbs/054.jpg"
+	linkURL="images/054.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/055.jpg"
+	thumbURL="thumbs/055.jpg"
+	linkURL="images/055.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/056.jpg"
+	thumbURL="thumbs/056.jpg"
+	linkURL="images/056.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/057.jpg"
+	thumbURL="thumbs/057.jpg"
+	linkURL="images/057.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/058.jpg"
+	thumbURL="thumbs/058.jpg"
+	linkURL="images/058.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[แวะกินมื้อสาย แถวแหลมแม่พิมพ์]]></caption>
+  </image>
+  <image imageURL="images/059.jpg"
+	thumbURL="thumbs/059.jpg"
+	linkURL="images/059.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/060.jpg"
+	thumbURL="thumbs/060.jpg"
+	linkURL="images/060.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[มาถึง อนุสาวรีย์สุนทรภู่ อ. แกลง ระยอง]]></caption>
+  </image>
+  <image imageURL="images/061.jpg"
+	thumbURL="thumbs/061.jpg"
+	linkURL="images/061.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+ </image>
+ <image imageURL="images/062.jpg"
+	thumbURL="thumbs/062.jpg"
+	linkURL="images/062.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+ </image>
+ <image imageURL="images/063.jpg"
+	thumbURL="thumbs/063.jpg"
+	linkURL="images/063.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+ </image>
+ <image imageURL="images/064.jpg"
+	thumbURL="thumbs/064.jpg"
+	linkURL="images/064.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+ </image>
+ <image imageURL="images/065.jpg"
+	thumbURL="thumbs/065.jpg"
+	linkURL="images/065.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+ </image>
+ <image imageURL="images/066.jpg"
+	thumbURL="thumbs/066.jpg"
+	linkURL="images/066.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+ </image>
+ <image imageURL="images/067.jpg"
+	thumbURL="thumbs/067.jpg"
+	linkURL="images/067.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+ </image>
+ <image imageURL="images/068.jpg"
+	thumbURL="thumbs/068.jpg"
+	linkURL="images/068.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+ </image>
+ <image imageURL="images/069.jpg"
+	thumbURL="thumbs/069.jpg"
+	linkURL="images/069.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+ </image>
+ <image imageURL="images/070.jpg"
+	thumbURL="thumbs/070.jpg"
+	linkURL="images/070.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+ </image>
+ <image imageURL="images/071.jpg"
+	thumbURL="thumbs/071.jpg"
+	linkURL="images/071.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+ </image>
+ <image imageURL="images/072.jpg"
+	thumbURL="thumbs/072.jpg"
+	linkURL="images/072.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+ </image>
+ <image imageURL="images/073.jpg"
+	thumbURL="thumbs/073.jpg"
+	linkURL="images/073.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+ </image>
+ <image imageURL="images/074.jpg"
+	thumbURL="thumbs/074.jpg"
+	linkURL="images/074.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+ </image>
+ <image imageURL="images/075.jpg"
+	thumbURL="thumbs/075.jpg"
+	linkURL="images/075.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+ </image>
+ <image imageURL="images/076.jpg"
+	thumbURL="thumbs/076.jpg"
+	linkURL="images/076.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+ </image>
+ <image imageURL="images/077.jpg"
+	thumbURL="thumbs/077.jpg"
+	linkURL="images/077.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+ </image>
+ <image imageURL="images/078.jpg"
+	thumbURL="thumbs/078.jpg"
+	linkURL="images/078.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+ </image>
+</juiceboxgallery>
